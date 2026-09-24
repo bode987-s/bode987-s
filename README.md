@@ -12,7 +12,6 @@
 
 - 🎓 6th semester CS student — Data Science specialization
 - 🔭 Building an end-to-end portfolio: data → EDA → modeling → evaluation → deployment
-- 🌱 Strengthening Python, SQL, and ML/statistics fundamentals
 - 💼 Open to Junior / Entry-Level ML Engineer & Data Scientist roles (remote-friendly)
 - 🗣️ English (Fluent) & Arabic (Native)
 
@@ -67,15 +66,7 @@ Forecasting and inventory optimization on ~73k retail/inventory rows — EDA, st
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bode987-s&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bode987-s&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
----
 
 ### 📫 Connect
 
