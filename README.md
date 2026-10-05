@@ -11,7 +11,7 @@
 ### 🧭 Currently
 
 - 🎓 6th semester CS student — Data Science specialization
-- 🔭 Building an end-to-end portfolio: data → EDA → modeling → evaluation → deployment
+- 🔭 Building an end-to-end projects: data → EDA → modeling → evaluation → deployment
 - 💼 Open to Junior / Entry-Level ML Engineer & Data Scientist roles (remote-friendly)
 - 🗣️ English (Fluent) & Arabic (Native)
 
