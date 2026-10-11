@@ -26,12 +26,11 @@ Classifies books by category using title, description, and cover image. Compares
 **🏠 Ames House Price Prediction**
 End-to-end regression project on the Ames Housing dataset — cleaning, EDA, outlier and skewness analysis, feature engineering (e.g. House Age, Total SF), scaling, cross-validated model training, and a Streamlit app. Outlier rules are derived strictly from training data to avoid leakage.
 `Python` `Pandas` `Scikit-learn` `Streamlit`
-**[Try the Streamlit App](https://house-price-prediction-hmuqws3kjgfyqkjdwsfy3s.streamlit.app/)**
+
 
 **📈 Retail Sales Forecasting & Optimization**
 Forecasting and inventory optimization on ~73k retail/inventory rows — EDA, statistical analysis, regression and tree-based models, and stock-out analysis, tracked with MLflow.
 `Python` `Scikit-learn` `MLflow` `Streamlit`
-**[Try the Streamlit App](https://sales-forecasting-and-optimization-jvmhehrwcbnuocotwxskmn.streamlit.app/)**
 
 
 
